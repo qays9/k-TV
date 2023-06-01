@@ -23,5 +23,6 @@ def encrypt(text, key):
  
 key = "XOX"
 #text = ""
+#えのてれぴぴたへをせられとふんたせふん
 encrypted_text = encrypt(text, key)
 print("Encrypted text:", encrypted_text)
